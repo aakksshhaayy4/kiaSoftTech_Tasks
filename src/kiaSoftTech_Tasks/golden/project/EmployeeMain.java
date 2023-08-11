@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.List;
 
-public class Main {
+public class EmployeeMain {
 
 	public static void main(String[] args) throws SQLException {
 
